@@ -1,4 +1,4 @@
-# Regex to remove invisible characters.
+## Regex to remove invisible characters.
 
 >If trim doesn't remove the hidden characters, what can I use?
 
